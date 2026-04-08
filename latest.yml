@@ -1,8 +1,8 @@
-version: 1.0.1
+version: 1.0.2
 files:
-  - url: O-PRATO-Setup-1.0.1.exe
-    sha512: UCGSB6NvWvFXu38Rcz/3xls51yAeElRlEgioWuseyMyQHdNGmsGKyU7Qu1+SkEs4iUJmn0AJwFcC4kLqNNdzrg==
-    size: 71293043
-path: O-PRATO-Setup-1.0.1.exe
-sha512: UCGSB6NvWvFXu38Rcz/3xls51yAeElRlEgioWuseyMyQHdNGmsGKyU7Qu1+SkEs4iUJmn0AJwFcC4kLqNNdzrg==
-releaseDate: '2026-04-08T20:00:39.516Z'
+  - url: O-PRATO-Setup-1.0.2.exe
+    sha512: yd6qmxvkv7lO2KL/XEMwqAxkRmSkL0N+HMc7MWqhaeU7WlsiDvgRGlILKcWNUKjPhsThNi8Qkb8RaS08fRO0DA==
+    size: 71293185
+path: O-PRATO-Setup-1.0.2.exe
+sha512: yd6qmxvkv7lO2KL/XEMwqAxkRmSkL0N+HMc7MWqhaeU7WlsiDvgRGlILKcWNUKjPhsThNi8Qkb8RaS08fRO0DA==
+releaseDate: '2026-04-08T20:07:35.953Z'
